@@ -1,0 +1,132 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/sdl2-ttf-x64-windows-2.22.0-114ed6d5-ba58-412e-900f-1c35755e308b",
+  "name": "sdl2-ttf:x64-windows@2.22.0 bd73f2931670b5fb75d84c09deaf0c49854a5d34c0913e434876acfb67348bc6",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-7d353e869753e5609a1f1a057df3db8fd356e49d"
+    ],
+    "created": "2024-07-05T01:22:31Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "sdl2-ttf",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "2.22.0",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@51a85aefcfb3e578904f1cbd72a9f49ff836b928",
+      "homepage": "https://www.libsdl.org/projects/SDL_ttf/",
+      "licenseConcluded": "Zlib",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "A library for rendering TrueType fonts with SDL",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "sdl2-ttf:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "bd73f2931670b5fb75d84c09deaf0c49854a5d34c0913e434876acfb67348bc6",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "Zlib",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "libsdl-org/SDL_ttf",
+      "downloadLocation": "git+https://github.com/libsdl-org/SDL_ttf@release-2.22.0",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "2e5dd54633c92329195370953ccf396dd4a12be30f432f46dc1c7023b3c871b8a99f5d2ca5b066ebc41fab02a070976911caeab18b08e6e4c5ab5cc3ad17be23"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/Han iLan/AppData/Local/vcpkg/registries/git-trees/51a85aefcfb3e578904f1cbd72a9f49ff836b928/portfile.cmake",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "3157be56057a615503386c3abb9d6e61c364f54ce2e36d7a8826d01cf9f77e59"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/Han iLan/AppData/Local/vcpkg/registries/git-trees/51a85aefcfb3e578904f1cbd72a9f49ff836b928/usage",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "db9e5e8218b487ea8a4ba3e851afdb97bb050b38702519b606e3724cb35ef49b"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/Han iLan/AppData/Local/vcpkg/registries/git-trees/51a85aefcfb3e578904f1cbd72a9f49ff836b928/vcpkg.json",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "ae85692cf647e7bed3a9fcfa8b52103c5034f260dee807371970369ce8d8405a"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

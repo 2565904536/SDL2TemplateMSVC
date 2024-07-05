@@ -1,0 +1,16 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbis.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisenc.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/pkgconfig/vorbisfile.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/codec.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/vorbisenc.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/include/vorbis/vorbisfile.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbis.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbis.dll
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbisenc.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisenc.dll
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/vorbisfile.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/bin/vorbisfile.dll
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisTargets.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisTargets-debug.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisConfig.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows/debug/lib/cmake/Vorbis/VorbisConfigVersion.cmake

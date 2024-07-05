@@ -1,0 +1,357 @@
+# ninja log v5
+6	69	7418456787199970	include/SDL2/SDL.h	3f2cc0314348f838
+6	69	7418456787199970	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL.h	3f2cc0314348f838
+10	74	7418456787259972	include/SDL2/SDL_assert.h	c1110bcee5aa2ad0
+10	74	7418456787259972	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_assert.h	c1110bcee5aa2ad0
+14	80	7418456787299968	include/SDL2/SDL_atomic.h	30d2e6957af5955b
+14	80	7418456787299968	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_atomic.h	30d2e6957af5955b
+18	85	7418456787349974	include/SDL2/SDL_audio.h	869b39ae2ad675ac
+18	85	7418456787349974	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_audio.h	869b39ae2ad675ac
+22	90	7418456787409971	include/SDL2/SDL_bits.h	a8b48a179343a0b3
+22	90	7418456787409971	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_bits.h	a8b48a179343a0b3
+27	95	7418456787459968	include/SDL2/SDL_blendmode.h	42e4fbaf7777209f
+27	95	7418456787459968	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_blendmode.h	42e4fbaf7777209f
+33	100	7418456787509970	include/SDL2/SDL_clipboard.h	e587313497075aa0
+33	100	7418456787509970	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_clipboard.h	e587313497075aa0
+38	105	7418456787549969	include/SDL2/SDL_copying.h	d7839aa774ddae13
+38	105	7418456787549969	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_copying.h	d7839aa774ddae13
+43	110	7418456787639967	include/SDL2/SDL_cpuinfo.h	8e0c60e271e151f3
+43	110	7418456787639967	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_cpuinfo.h	8e0c60e271e151f3
+48	115	7418456787659970	include/SDL2/SDL_egl.h	3da96f60a7f4a2bb
+48	115	7418456787659970	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_egl.h	3da96f60a7f4a2bb
+53	120	7418456787709969	include/SDL2/SDL_endian.h	d94dd472025d9596
+53	120	7418456787709969	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_endian.h	d94dd472025d9596
+59	125	7418456787749968	include/SDL2/SDL_error.h	cc77ed1300298360
+59	125	7418456787749968	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_error.h	cc77ed1300298360
+64	130	7418456787815489	include/SDL2/SDL_events.h	23b5140793e6af11
+64	130	7418456787815489	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_events.h	23b5140793e6af11
+70	135	7418456787885487	include/SDL2/SDL_filesystem.h	ea56194989b41c28
+70	135	7418456787885487	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_filesystem.h	ea56194989b41c28
+74	140	7418456787905487	include/SDL2/SDL_gamecontroller.h	3ac8e130df0c697
+74	140	7418456787905487	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_gamecontroller.h	3ac8e130df0c697
+80	145	7418456787985490	include/SDL2/SDL_gesture.h	3ce3efe16fae78b0
+80	145	7418456787985490	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_gesture.h	3ce3efe16fae78b0
+85	149	7418456788015488	include/SDL2/SDL_guid.h	a605cef466ff8edf
+85	149	7418456788015488	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_guid.h	a605cef466ff8edf
+90	155	7418456788075490	include/SDL2/SDL_haptic.h	457fff7b3f0326e4
+90	155	7418456788075490	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_haptic.h	457fff7b3f0326e4
+95	160	7418456788115488	include/SDL2/SDL_hidapi.h	b738c39570eecb88
+95	160	7418456788115488	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_hidapi.h	b738c39570eecb88
+100	164	7418456788175489	include/SDL2/SDL_hints.h	cb9d901480df1786
+100	164	7418456788175489	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_hints.h	cb9d901480df1786
+105	169	7418456788225485	include/SDL2/SDL_joystick.h	5f6e6477c99903f9
+105	169	7418456788225485	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_joystick.h	5f6e6477c99903f9
+110	174	7418456788255489	include/SDL2/SDL_keyboard.h	7762cfd72dbc278d
+110	174	7418456788255489	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_keyboard.h	7762cfd72dbc278d
+115	179	7418456788315485	include/SDL2/SDL_keycode.h	274b24be24d33024
+115	179	7418456788315485	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_keycode.h	274b24be24d33024
+120	184	7418456788355485	include/SDL2/SDL_loadso.h	b525a0b3e537e205
+120	184	7418456788355485	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_loadso.h	b525a0b3e537e205
+125	188	7418456788400876	include/SDL2/SDL_locale.h	fd124f1d07f4d717
+125	188	7418456788400876	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_locale.h	fd124f1d07f4d717
+130	193	7418456788450900	include/SDL2/SDL_log.h	e0e737ae1b6914b5
+130	193	7418456788450900	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_log.h	e0e737ae1b6914b5
+135	198	7418456788500899	include/SDL2/SDL_main.h	d2b2daccac3f87d0
+135	198	7418456788500899	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_main.h	d2b2daccac3f87d0
+140	203	7418456788560902	include/SDL2/SDL_messagebox.h	6a91e4fab8c4cfea
+140	203	7418456788560902	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_messagebox.h	6a91e4fab8c4cfea
+145	208	7418456788600899	include/SDL2/SDL_metal.h	369fb42fcbe62cb5
+145	208	7418456788600899	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_metal.h	369fb42fcbe62cb5
+149	212	7418456788650900	include/SDL2/SDL_misc.h	9426598ac14aa78d
+149	212	7418456788650900	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_misc.h	9426598ac14aa78d
+155	217	7418456788700902	include/SDL2/SDL_mouse.h	39e3ec8354786db8
+155	217	7418456788700902	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_mouse.h	39e3ec8354786db8
+160	222	7418456788750900	include/SDL2/SDL_mutex.h	d9fb606dcb35467a
+160	222	7418456788750900	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_mutex.h	d9fb606dcb35467a
+164	227	7418456788790899	include/SDL2/SDL_name.h	a2ff69f12a493f66
+164	227	7418456788790899	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_name.h	a2ff69f12a493f66
+169	232	7418456788850898	include/SDL2/SDL_opengl.h	d96e9c4877c15004
+169	232	7418456788850898	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengl.h	d96e9c4877c15004
+174	237	7418456788910903	include/SDL2/SDL_opengl_glext.h	49690b6d6f8de167
+174	237	7418456788910903	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengl_glext.h	49690b6d6f8de167
+180	242	7418456788930900	include/SDL2/SDL_opengles.h	2efc1d90f5dc1555
+180	242	7418456788930900	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles.h	2efc1d90f5dc1555
+184	247	7418456789000901	include/SDL2/SDL_opengles2.h	8b8bd136e8ecfbee
+184	247	7418456789000901	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2.h	8b8bd136e8ecfbee
+188	251	7418456789056308	include/SDL2/SDL_opengles2_gl2.h	6e26c7caa84c6820
+188	251	7418456789056308	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2.h	6e26c7caa84c6820
+193	256	7418456789096300	include/SDL2/SDL_opengles2_gl2ext.h	6ae0eecdc03a68bf
+193	256	7418456789096300	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2ext.h	6ae0eecdc03a68bf
+198	261	7418456789136300	include/SDL2/SDL_opengles2_gl2platform.h	c3c2d27ca0cc5dff
+198	261	7418456789136300	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_gl2platform.h	c3c2d27ca0cc5dff
+203	266	7418456789186302	include/SDL2/SDL_opengles2_khrplatform.h	7e5bf88b6e1c7acf
+203	266	7418456789186302	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_opengles2_khrplatform.h	7e5bf88b6e1c7acf
+208	270	7418456789226298	include/SDL2/SDL_pixels.h	ebc64d4a357a531f
+208	270	7418456789226298	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_pixels.h	ebc64d4a357a531f
+212	275	7418456789276299	include/SDL2/SDL_platform.h	5b971ec2ba2cf3ed
+212	275	7418456789276299	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_platform.h	5b971ec2ba2cf3ed
+217	280	7418456789336299	include/SDL2/SDL_power.h	1aeb7cef41e4bfd5
+217	280	7418456789336299	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_power.h	1aeb7cef41e4bfd5
+222	285	7418456789386297	include/SDL2/SDL_quit.h	dc656e2fbddb143e
+222	285	7418456789386297	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_quit.h	dc656e2fbddb143e
+227	291	7418456789426299	include/SDL2/SDL_rect.h	72c654435be6f8ef
+227	291	7418456789426299	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_rect.h	72c654435be6f8ef
+232	296	7418456789476298	include/SDL2/SDL_render.h	44a960324966872b
+232	296	7418456789476298	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_render.h	44a960324966872b
+237	300	7418456789526297	include/SDL2/SDL_rwops.h	9efca84104479946
+237	300	7418456789526297	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_rwops.h	9efca84104479946
+242	305	7418456789566299	include/SDL2/SDL_scancode.h	ce6f563b788ec29a
+242	305	7418456789566299	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_scancode.h	ce6f563b788ec29a
+247	310	7418456789626297	include/SDL2/SDL_sensor.h	8e5ecb4b63f306e3
+247	310	7418456789626297	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_sensor.h	8e5ecb4b63f306e3
+251	316	7418456789671698	include/SDL2/SDL_shape.h	b74183fbe2029058
+251	316	7418456789671698	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_shape.h	b74183fbe2029058
+257	321	7418456789711722	include/SDL2/SDL_stdinc.h	e1c817397db908ef
+257	321	7418456789711722	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_stdinc.h	e1c817397db908ef
+261	326	7418456789771723	include/SDL2/SDL_surface.h	4e9b6d69b157ad55
+261	326	7418456789771723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_surface.h	4e9b6d69b157ad55
+266	331	7418456789821723	include/SDL2/SDL_system.h	e42c921ac18e8160
+266	331	7418456789821723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_system.h	e42c921ac18e8160
+270	336	7418456789861725	include/SDL2/SDL_syswm.h	48d42f1ed1402b81
+270	336	7418456789861725	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_syswm.h	48d42f1ed1402b81
+275	341	7418456789921724	include/SDL2/SDL_test.h	f168ff9aed9a10b6
+275	341	7418456789921724	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test.h	f168ff9aed9a10b6
+280	346	7418456789961723	include/SDL2/SDL_test_assert.h	b163cc5ba9169c07
+280	346	7418456789961723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_assert.h	b163cc5ba9169c07
+285	351	7418456790021725	include/SDL2/SDL_test_common.h	772ee1009cf63886
+285	351	7418456790021725	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_common.h	772ee1009cf63886
+291	355	7418456790071730	include/SDL2/SDL_test_compare.h	f73186a87d98e764
+291	355	7418456790071730	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_compare.h	f73186a87d98e764
+296	360	7418456790131725	include/SDL2/SDL_test_crc32.h	23a3fd279d1dfc02
+296	360	7418456790131725	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_crc32.h	23a3fd279d1dfc02
+300	365	7418456790161726	include/SDL2/SDL_test_font.h	76b044b78f6e3eda
+300	365	7418456790161726	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_font.h	76b044b78f6e3eda
+305	370	7418456790211722	include/SDL2/SDL_test_fuzzer.h	612caa9bc16cce98
+305	370	7418456790211722	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_fuzzer.h	612caa9bc16cce98
+310	374	7418456790261723	include/SDL2/SDL_test_harness.h	7913848db279eb96
+310	374	7418456790261723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_harness.h	7913848db279eb96
+316	379	7418456790301724	include/SDL2/SDL_test_images.h	ea6da424bd51884
+316	379	7418456790301724	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_images.h	ea6da424bd51884
+321	383	7418456790371724	include/SDL2/SDL_test_log.h	9dc8ff73cf0e1cad
+321	383	7418456790371724	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_log.h	9dc8ff73cf0e1cad
+326	384	7418456790421723	include/SDL2/SDL_test_md5.h	56c7b4487a9081f6
+326	384	7418456790421723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_md5.h	56c7b4487a9081f6
+331	384	7418456790451723	include/SDL2/SDL_test_memory.h	94b6b77973e8c047
+331	384	7418456790451723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_memory.h	94b6b77973e8c047
+336	384	7418456790521724	include/SDL2/SDL_test_random.h	89c72725ecc4d531
+336	384	7418456790521724	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_test_random.h	89c72725ecc4d531
+341	384	7418456790561723	include/SDL2/SDL_thread.h	7b67c9a2e4a73811
+341	384	7418456790561723	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_thread.h	7b67c9a2e4a73811
+346	384	7418456790611722	include/SDL2/SDL_timer.h	fc7329b4815dfe29
+346	384	7418456790611722	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_timer.h	fc7329b4815dfe29
+351	384	7418456790661722	include/SDL2/SDL_touch.h	47d28312bb789e33
+351	384	7418456790661722	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_touch.h	47d28312bb789e33
+355	385	7418456790711721	include/SDL2/SDL_types.h	c37f88c2758de7bb
+355	385	7418456790711721	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_types.h	c37f88c2758de7bb
+360	391	7418456790771720	include/SDL2/SDL_version.h	1a3bac112ff1a92
+360	391	7418456790771720	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_version.h	1a3bac112ff1a92
+365	394	7418456790797294	include/SDL2/SDL_video.h	e34f846f0fe94e52
+365	394	7418456790797294	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_video.h	e34f846f0fe94e52
+370	397	7418456790837289	include/SDL2/SDL_vulkan.h	d4c1f86241413091
+370	397	7418456790837289	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/SDL_vulkan.h	d4c1f86241413091
+374	401	7418456790877288	include/SDL2/begin_code.h	9c3097df8198f7d9
+374	401	7418456790877288	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/begin_code.h	9c3097df8198f7d9
+379	405	7418456790917287	include/SDL2/close_code.h	bae0fc3be3c4dd00
+379	405	7418456790917287	F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2/x64-windows-rel/include/SDL2/close_code.h	bae0fc3be3c4dd00
+422	702	7418456793379088	CMakeFiles/SDL2.dir/src/SDL_utils.c.obj	9590ea14b92278d4
+414	711	7418456793475053	CMakeFiles/SDL2.dir/src/SDL_guid.c.obj	363e33a1d8429ae9
+415	725	7418456793735031	CMakeFiles/SDL2.dir/src/SDL_hints.c.obj	200ccfdd161c8c58
+412	728	7418456793459086	CMakeFiles/SDL2.dir/src/SDL_error.c.obj	824b5dc26736761a
+424	760	7418456794075040	CMakeFiles/SDL2.dir/src/atomic/SDL_atomic.c.obj	6e95ccc24e35722f
+712	1054	7418456795965858	CMakeFiles/SDL2.dir/src/audio/SDL_audiodev.c.obj	755fe289b0d0e86d
+725	1157	7418456797481421	CMakeFiles/SDL2.dir/src/audio/SDL_audiotypecvt.c.obj	f54acff82a1de2cf
+417	1160	7418456797791420	CMakeFiles/SDL2.dir/src/SDL_list.c.obj	db42a331c512abd
+427	1165	7418456797185860	CMakeFiles/SDL2.dir/src/atomic/SDL_spinlock.c.obj	fdc90a911bc60884
+419	1228	7418456797741419	CMakeFiles/SDL2.dir/src/SDL_log.c.obj	a1bcfa77e7d82d22
+728	1235	7418456797761421	CMakeFiles/SDL2.dir/src/audio/SDL_mixer.c.obj	296898bd36f9fe6e
+760	1302	7418456799042473	CMakeFiles/SDL2.dir/src/audio/SDL_wave.c.obj	fccfff33aa0bac8c
+410	1305	7418456799162784	CMakeFiles/SDL2.dir/src/SDL_dataqueue.c.obj	cfcb4e7df697ecdb
+405	1375	7418456799492956	CMakeFiles/SDL2main.dir/src/main/windows/SDL_windows_main.c.obj	beeccd1b662a6800
+703	1381	7418456799798342	CMakeFiles/SDL2.dir/src/audio/SDL_audiocvt.c.obj	762d50646cbdcd33
+408	1412	7418456800068342	CMakeFiles/SDL2.dir/src/SDL_assert.c.obj	6b34fefa9c63b0b9
+1376	1474	7418456801215156	SDL2main.lib	7bc8c19de94a0936
+430	1508	7418456801065251	CMakeFiles/SDL2.dir/src/audio/SDL_audio.c.obj	60af9917dcab4ad0
+406	1602	7418456801850759	CMakeFiles/SDL2.dir/src/SDL.c.obj	7171e45ba0a861b2
+1161	1663	7418456802896092	CMakeFiles/SDL2.dir/src/events/SDL_clipboardevents.c.obj	4dad84186e246077
+1166	1692	7418456802876092	CMakeFiles/SDL2.dir/src/events/SDL_displayevents.c.obj	60beaeff212d1316
+1228	1699	7418456802906086	CMakeFiles/SDL2.dir/src/events/SDL_dropevents.c.obj	ed1b0a5afe84f224
+1382	1733	7418456803091846	CMakeFiles/SDL2.dir/src/events/SDL_keysym_to_scancode.c.obj	3c8df5bdede40c49
+1509	1815	7418456804351842	CMakeFiles/SDL2.dir/src/events/SDL_scancode_tables.c.obj	c77f940619230fb
+1306	1849	7418456804551843	CMakeFiles/SDL2.dir/src/events/SDL_keyboard.c.obj	16f9d611ac18e332
+1054	1875	7418456804751841	CMakeFiles/SDL2.dir/src/cpuinfo/SDL_cpuinfo.c.obj	56039f2b061a10c1
+1474	1948	7418456805407260	CMakeFiles/SDL2.dir/src/events/SDL_quit.c.obj	717becd0898c624
+1302	1960	7418456805417260	CMakeFiles/SDL2.dir/src/events/SDL_gesture.c.obj	1463e91cbb4ead9e
+1693	2021	7418456806185896	CMakeFiles/SDL2.dir/src/events/imKStoUCS.c.obj	805fc4f40bf54af5
+1733	2165	7418456807211362	CMakeFiles/SDL2.dir/src/haptic/SDL_haptic.c.obj	d357e3a3d76958da
+1602	2187	7418456807677072	CMakeFiles/SDL2.dir/src/events/SDL_touch.c.obj	e2bb64da6d6b78ad
+1235	2224	7418456808387535	CMakeFiles/SDL2.dir/src/events/SDL_events.c.obj	37e7f06a7af0e6cf
+1664	2298	7418456809298671	CMakeFiles/SDL2.dir/src/events/SDL_windowevents.c.obj	aa595bc5471684da
+1413	2371	7418456809548667	CMakeFiles/SDL2.dir/src/events/SDL_mouse.c.obj	37dade8f5e290d7
+1960	2415	7418456810394032	CMakeFiles/SDL2.dir/src/joystick/controller_type.c.obj	d57e3d84349dfcbb
+2021	2445	7418456810624772	CMakeFiles/SDL2.dir/src/libm/e_atan2.c.obj	546ad5674e508a56
+2165	2522	7418456811730091	CMakeFiles/SDL2.dir/src/libm/e_exp.c.obj	ff9a7411899643f9
+1849	2565	7418456811430086	CMakeFiles/SDL2.dir/src/joystick/SDL_gamecontroller.c.obj	4daddf54e7afdf8a
+1699	2622	7418456811710085	CMakeFiles/SDL2.dir/src/file/SDL_rwops.c.obj	fe57d9f2e32882d5
+2187	2750	7418456812596161	CMakeFiles/SDL2.dir/src/libm/e_fmod.c.obj	8814795b394325e6
+2224	2784	7418456813101573	CMakeFiles/SDL2.dir/src/libm/e_log.c.obj	822d84de187d30a
+2298	2791	7418456813421569	CMakeFiles/SDL2.dir/src/libm/e_log10.c.obj	3cdf0ddb43419a5a
+1157	2800	7418456813651566	CMakeFiles/SDL2.dir/src/dynapi/SDL_dynapi.c.obj	fefb613a4c57f02b
+2371	2839	7418456814637517	CMakeFiles/SDL2.dir/src/libm/e_pow.c.obj	2d53c3f65d9071f4
+1948	2843	7418456813271569	CMakeFiles/SDL2.dir/src/joystick/SDL_steam_virtual_gamepad.c.obj	4f4951cc33038af5
+1815	2846	7418456813947029	CMakeFiles/SDL2.dir/src/hidapi/SDL_hidapi.c.obj	9e45a41854ffe28d
+2445	2851	7418456814867517	CMakeFiles/SDL2.dir/src/libm/e_sqrt.c.obj	3dca58a0f02c6fdb
+2415	2933	7418456815172934	CMakeFiles/SDL2.dir/src/libm/e_rem_pio2.c.obj	3b776f43923b66c5
+1875	2938	7418456815132932	CMakeFiles/SDL2.dir/src/joystick/SDL_joystick.c.obj	81182c2cffc8dfb7
+2522	2979	7418456816124940	CMakeFiles/SDL2.dir/src/libm/k_cos.c.obj	2694028ace85fde5
+2622	3012	7418456816470310	CMakeFiles/SDL2.dir/src/libm/k_sin.c.obj	96dd075e51892050
+2750	3146	7418456817705673	CMakeFiles/SDL2.dir/src/libm/k_tan.c.obj	d47bcd899f3c7818
+2784	3148	7418456817935680	CMakeFiles/SDL2.dir/src/libm/s_atan.c.obj	91f486c3f47f143d
+2839	3170	7418456818095677	CMakeFiles/SDL2.dir/src/libm/s_fabs.c.obj	1bb24eb41d4fdc87
+2843	3178	7418456818055677	CMakeFiles/SDL2.dir/src/libm/s_floor.c.obj	eb9fbaa36b36c16e
+2791	3186	7418456818035677	CMakeFiles/SDL2.dir/src/libm/s_copysign.c.obj	cc428946a2079a50
+2800	3195	7418456818331079	CMakeFiles/SDL2.dir/src/libm/s_cos.c.obj	8884f439fa1e0159
+2851	3202	7418456818135675	CMakeFiles/SDL2.dir/src/libm/s_sin.c.obj	d2dbfb85c0c5a53f
+2846	3228	7418456818551082	CMakeFiles/SDL2.dir/src/libm/s_scalbn.c.obj	3d1803017be61163
+2938	3267	7418456818781598	CMakeFiles/SDL2.dir/src/locale/SDL_locale.c.obj	f8c512210b71b541
+2565	3270	7418456818341082	CMakeFiles/SDL2.dir/src/libm/k_rem_pio2.c.obj	6eee7fc0bfe168bc
+2979	3280	7418456818776452	CMakeFiles/SDL2.dir/src/misc/SDL_url.c.obj	4bc202c0a3a54f06
+2933	3308	7418456819281522	CMakeFiles/SDL2.dir/src/libm/s_tan.c.obj	607cd69d42dc6546
+3012	3351	7418456819546909	CMakeFiles/SDL2.dir/src/power/SDL_power.c.obj	1a109c894aef0909
+3146	3488	7418456821158541	CMakeFiles/SDL2.dir/src/render/SDL_d3dmath.c.obj	eb8c57077892e1c6
+3308	3647	7418456821859038	CMakeFiles/SDL2.dir/src/render/opengles/SDL_render_gles.c.obj	14d3639a8e1a4921
+3170	3690	7418456822304499	CMakeFiles/SDL2.dir/src/render/SDL_yuv_sw.c.obj	2a17e36e98f81ab
+3148	3792	7418456824065911	CMakeFiles/SDL2.dir/src/render/SDL_render.c.obj	10d55601de56bfb9
+3647	3927	7418456825653018	CMakeFiles/SDL2.dir/src/render/ps2/SDL_render_ps2.c.obj	ab2cf578a68ec24
+3690	4024	7418456826157467	CMakeFiles/SDL2.dir/src/render/psp/SDL_render_psp.c.obj	75555ab2302eaad
+3488	4028	7418456826167467	CMakeFiles/SDL2.dir/src/render/opengles2/SDL_shaders_gles2.c.obj	8318a2d747e4f489
+3280	4092	7418456827118369	CMakeFiles/SDL2.dir/src/render/opengl/SDL_shaders_gl.c.obj	ea94421f655dcd7
+3352	4131	7418456827278369	CMakeFiles/SDL2.dir/src/render/opengles2/SDL_render_gles2.c.obj	48b5cae5c01e698a
+3186	4348	7418456828804800	CMakeFiles/SDL2.dir/src/render/direct3d/SDL_shaders_d3d.c.obj	fa6ac66df9868d7
+3202	4500	7418456829650609	CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_shaders_d3d11.c.obj	83ab3b37c9348ca2
+3178	4521	7418456830140604	CMakeFiles/SDL2.dir/src/render/direct3d/SDL_render_d3d.c.obj	cc45ddda0ea06924
+3267	4532	7418456829650609	CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_shaders_d3d12.c.obj	83becb8a5054cb99
+3195	4565	7418456831481323	CMakeFiles/SDL2.dir/src/render/direct3d11/SDL_render_d3d11.c.obj	3791d26f6d5ee38
+3270	4569	7418456830770604	CMakeFiles/SDL2.dir/src/render/opengl/SDL_render_gl.c.obj	6f7272bd546d73cf
+4028	4610	7418456831961328	CMakeFiles/SDL2.dir/src/render/software/SDL_drawline.c.obj	6e141f175d7f0c67
+4025	4637	7418456831591327	CMakeFiles/SDL2.dir/src/render/software/SDL_blendpoint.c.obj	9803f1cc8253aa19
+4092	4701	7418456832451783	CMakeFiles/SDL2.dir/src/render/software/SDL_drawpoint.c.obj	782d1a2e9d0b0c4e
+3228	4712	7418456832281787	CMakeFiles/SDL2.dir/src/render/direct3d12/SDL_render_d3d12.c.obj	465eaf3d6a0fc1bb
+3792	4738	7418456832757248	CMakeFiles/SDL2.dir/src/render/software/SDL_blendfillrect.c.obj	d8eaa381bf60938c
+4565	4895	7418456835324679	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_tools.c.obj	d7c126e5a6652a4a
+4521	4898	7418456835314678	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm.c.obj	ee8f4a71e937c0d2
+4532	4911	7418456835474678	CMakeFiles/SDL2.dir/src/render/vitagxm/SDL_render_vita_gxm_memory.c.obj	e770e0e2e22908ae
+3927	4953	7418456835694678	CMakeFiles/SDL2.dir/src/render/software/SDL_blendline.c.obj	fa6e54d979b7fe93
+4131	4956	7418456835374679	CMakeFiles/SDL2.dir/src/render/software/SDL_render_sw.c.obj	84c501fcde2adbd6
+4611	5003	7418456835794683	CMakeFiles/SDL2.dir/src/stdlib/SDL_crc16.c.obj	150f22c6359eb115
+4638	5040	7418456836208223	CMakeFiles/SDL2.dir/src/stdlib/SDL_crc32.c.obj	1b87b34f1b806156
+4738	5103	7418456837314073	CMakeFiles/SDL2.dir/src/stdlib/SDL_malloc.c.obj	e2f7748eb47b7711
+4569	5106	7418456837324078	CMakeFiles/SDL2.dir/src/sensor/SDL_sensor.c.obj	ba5696dbcbac0a6a
+4712	5164	7418456837684075	CMakeFiles/SDL2.dir/src/stdlib/SDL_iconv.c.obj	7eff464e4bf7d102
+4500	5223	7418456838149859	CMakeFiles/SDL2.dir/src/render/software/SDL_triangle.c.obj	c291e85629c0f6a1
+4895	5249	7418456838510315	CMakeFiles/SDL2.dir/src/stdlib/SDL_mslibc.c.obj	399a0d7244f5a5
+4911	5278	7418456838660316	CMakeFiles/SDL2.dir/src/stdlib/SDL_stdlib.c.obj	d3cf0c777aa6c10c
+4898	5281	7418456838480318	CMakeFiles/SDL2.dir/src/stdlib/SDL_qsort.c.obj	8e947b2cafb11821
+4956	5285	7418456838740317	CMakeFiles/SDL2.dir/src/stdlib/SDL_strtokr.c.obj	4da4163e81cef947
+4348	5352	7418456839385927	CMakeFiles/SDL2.dir/src/render/software/SDL_rotate.c.obj	46e6ae460b17c6c7
+4953	5408	7418456840337234	CMakeFiles/SDL2.dir/src/stdlib/SDL_string.c.obj	f1b56bc3583e2d9f
+4701	5535	7418456841058526	CMakeFiles/SDL2.dir/src/stdlib/SDL_getenv.c.obj	86f5a01e4ac2e491
+5106	5780	7418456842259327	CMakeFiles/SDL2.dir/src/video/SDL_blit.c.obj	f130487593aeb493
+5040	5987	7418456845076335	CMakeFiles/SDL2.dir/src/timer/SDL_timer.c.obj	1e1e9bb6f4662c07
+5003	5990	7418456844806337	CMakeFiles/SDL2.dir/src/thread/SDL_thread.c.obj	c38f2a13163e0634
+5223	5993	7418456845636835	CMakeFiles/SDL2.dir/src/video/SDL_blit_1.c.obj	b409324770389f55
+5285	6028	7418456844440919	CMakeFiles/SDL2.dir/src/video/SDL_blit_copy.c.obj	5776059392988f8a
+5352	6055	7418456846001891	CMakeFiles/SDL2.dir/src/video/SDL_blit_slow.c.obj	79965da673f65e59
+5164	6091	7418456845867742	CMakeFiles/SDL2.dir/src/video/SDL_blit_0.c.obj	674ca73321041a66
+5281	6129	7418456846046963	CMakeFiles/SDL2.dir/src/video/SDL_blit_auto.c.obj	62a1fada7474fbbf
+5103	6267	7418456847383154	CMakeFiles/SDL2.dir/src/video/SDL_RLEaccel.c.obj	25f2c909333caf76
+5408	6292	7418456848878541	CMakeFiles/SDL2.dir/src/video/SDL_bmp.c.obj	2a79652b12aa52dc
+5249	6295	7418456848858538	CMakeFiles/SDL2.dir/src/video/SDL_blit_A.c.obj	82e17168dafa0a3e
+5535	6298	7418456849018541	CMakeFiles/SDL2.dir/src/video/SDL_clipboard.c.obj	3d6031d3148001ea
+5990	6516	7418456851390240	CMakeFiles/SDL2.dir/src/video/SDL_pixels.c.obj	3d9a8511f108f09
+5993	6556	7418456851836154	CMakeFiles/SDL2.dir/src/video/SDL_rect.c.obj	bf9f0ea6bf1098c5
+5278	6577	7418456851746152	CMakeFiles/SDL2.dir/src/video/SDL_blit_N.c.obj	2ee003cc1435abd2
+5987	6628	7418456851470241	CMakeFiles/SDL2.dir/src/video/SDL_fillrect.c.obj	1a31b3953a7c3c9b
+6295	6668	7418456852866150	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_lsx.c.obj	5ddb217111a649a5
+6056	6674	7418456852686151	CMakeFiles/SDL2.dir/src/video/SDL_stretch.c.obj	e00ad0e81c1585d4
+6028	6730	7418456852746152	CMakeFiles/SDL2.dir/src/video/SDL_shape.c.obj	9fd74aecc5b5d3bf
+6091	6733	7418456853081594	CMakeFiles/SDL2.dir/src/video/SDL_surface.c.obj	bf4bdf47db954bcd
+6267	6845	7418456853807064	CMakeFiles/SDL2.dir/src/video/SDL_vulkan_utils.c.obj	33f6098930d1a2ed
+5780	6849	7418456853587059	CMakeFiles/SDL2.dir/src/video/SDL_egl.c.obj	d48863abe3430a08
+6298	7043	7418456855698203	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_sse.c.obj	a2da78912ff61a7f
+6577	7095	7418456856714062	CMakeFiles/SDL2.dir/src/audio/disk/SDL_diskaudio.c.obj	96e150839c71fb70
+6556	7195	7418456857399989	CMakeFiles/SDL2.dir/src/audio/dummy/SDL_dummyaudio.c.obj	7a1a86010892fcf4
+6674	7198	7418456857679988	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullframebuffer.c.obj	f6c297a5b36c5d9c
+6669	7206	7418456857769993	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullevents.c.obj	7591717a29dadb3a
+6516	7218	7418456857589993	CMakeFiles/SDL2.dir/src/video/yuv2rgb/yuv_rgb_std.c.obj	251d4432376ffcb6
+6628	7278	7418456858905500	CMakeFiles/SDL2.dir/src/joystick/virtual/SDL_virtualjoystick.c.obj	3545f94aba0b540f
+6730	7284	7418456858995501	CMakeFiles/SDL2.dir/src/video/dummy/SDL_nullvideo.c.obj	87d8b7285770b7ce
+6129	7314	7418456859390865	CMakeFiles/SDL2.dir/src/video/SDL_video.c.obj	4b13e95bad953981
+6845	7318	7418456859290869	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenframebuffer.c.obj	d85376a982a251d5
+6292	7338	7418456859610869	CMakeFiles/SDL2.dir/src/video/SDL_yuv.c.obj	94bab9e2d6f34100
+6733	7341	7418456859245501	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenevents.c.obj	667ad656bfeee59c
+6849	7599	7418456862258312	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenopengles.c.obj	c922cdc5cec48769
+7043	7769	7418456863879546	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenvideo.c.obj	b04ad5bfe576306e
+7095	7830	7418456864524848	CMakeFiles/SDL2.dir/src/video/offscreen/SDL_offscreenwindow.c.obj	5d968a89a76e270c
+7196	7833	7418456864604849	CMakeFiles/SDL2.dir/src/core/windows/SDL_hid.c.obj	647ec712415566c3
+7219	7874	7418456864614850	CMakeFiles/SDL2.dir/src/core/windows/SDL_xinput.c.obj	a57fea5188a1026c
+7278	7976	7418456865931174	CMakeFiles/SDL2.dir/src/misc/windows/SDL_sysurl.c.obj	87b3092ff58452d
+7206	8080	7418456866941901	CMakeFiles/SDL2.dir/src/core/windows/SDL_windows.c.obj	c07dc994888804b0
+7285	8111	7418456867331898	CMakeFiles/SDL2.dir/src/audio/winmm/SDL_winmm.c.obj	9a90cf2fcf390fb5
+7198	8121	7418456867361899	CMakeFiles/SDL2.dir/src/core/windows/SDL_immdevice.c.obj	3bc3b685b8d38914
+7341	8245	7418456868541901	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsclipboard.c.obj	a8203f94ea7ee024
+7318	8296	7418456869227221	CMakeFiles/SDL2.dir/src/audio/wasapi/SDL_wasapi.c.obj	9267f04f8df6a9d3
+7314	8302	7418456868987218	CMakeFiles/SDL2.dir/src/audio/directsound/SDL_directsound.c.obj	492212c675e452e7
+7339	8361	7418456869572768	CMakeFiles/SDL2.dir/src/audio/wasapi/SDL_wasapi_win32.c.obj	7db273bdb5add84d
+8296	8531	7418456871674306	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsvulkan.c.obj	cf68dfaa784b3be6
+8362	8677	7418456873190469	CMakeFiles/SDL2.dir/src/thread/generic/SDL_syscond.c.obj	925891d6a05f06ff
+7599	8757	7418456873375542	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsevents.c.obj	1f5c2ebeb668e703
+7874	8850	7418456874616011	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmodes.c.obj	2ba5803eb88e1057
+7769	8853	7418456874016015	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsframebuffer.c.obj	e141d01d871ecdb0
+7830	8922	7418456874906013	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowskeyboard.c.obj	d17fec4e7f451fcb
+7833	8994	7418456875751833	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmessagebox.c.obj	69781940401710a3
+7976	9026	7418456876095138	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsmouse.c.obj	9f629b3af5ea4f1e
+8112	9142	7418456877520508	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsopengles.c.obj	85fcd48265d8ad6c
+8121	9156	7418456877300509	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsshape.c.obj	89994821fbb70ace
+8080	9170	7418456877795946	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsopengl.c.obj	325b04a825667180
+8245	9297	7418456879081890	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowsvideo.c.obj	fbe317db328307b2
+8531	9301	7418456878866515	CMakeFiles/SDL2.dir/src/thread/windows/SDL_syscond_cv.c.obj	b1b66c1b62dd5024
+8302	9359	7418456879787235	CMakeFiles/SDL2.dir/src/video/windows/SDL_windowswindow.c.obj	3b1d19657dc2de86
+8677	9426	7418456880347438	CMakeFiles/SDL2.dir/src/thread/windows/SDL_sysmutex.c.obj	55594d954667145e
+8757	9430	7418456880617436	CMakeFiles/SDL2.dir/src/thread/windows/SDL_syssem.c.obj	7d1fbf30d7a89844
+8854	9545	7418456881678361	CMakeFiles/SDL2.dir/src/thread/windows/SDL_systls.c.obj	85197fe260b778ae
+8850	9548	7418456881748359	CMakeFiles/SDL2.dir/src/thread/windows/SDL_systhread.c.obj	d59c71dac334d7de
+9297	9634	7418456882558806	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_combined.c.obj	15a318b0cce77215
+9026	9687	7418456883309666	CMakeFiles/SDL2.dir/src/locale/windows/SDL_syslocale.c.obj	b35f1a6ea47e3979
+8994	9709	7418456883229665	CMakeFiles/SDL2.dir/src/power/windows/SDL_syspower.c.obj	1c3752800f883fab
+9359	9792	7418456883925060	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_luna.c.obj	12e1d997aad629a0
+9301	9835	7418456884390412	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_gamecube.c.obj	2fd3fa55d054f420
+8922	9860	7418456884845899	CMakeFiles/SDL2.dir/src/sensor/windows/SDL_windowssensor.c.obj	87b180c0b478a3b4
+9171	9878	7418456884775897	CMakeFiles/SDL2.dir/src/loadso/windows/SDL_sysloadso.c.obj	9e98c5beaeb67a5e
+9156	9891	7418456885235901	CMakeFiles/SDL2.dir/src/timer/windows/SDL_systimer.c.obj	79332e30d7f5dd26
+9426	9902	7418456884875896	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps3.c.obj	fa0602b7461faf85
+9430	9919	7418456885385897	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps4.c.obj	4509f726dcb6cf28
+9687	10141	7418456887334966	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_stadia.c.obj	9c0e3ae31890bb16
+9545	10144	7418456887354963	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_ps5.c.obj	4c82aebf6a677d02
+9634	10177	7418456887944962	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_shield.c.obj	9e558b8e64777b35
+9792	10250	7418456888610332	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_steamdeck.c.obj	c9f5f4804b731f84
+9709	10253	7418456888344961	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_steam.c.obj	a7c12f98affc9150
+9878	10359	7418456889495809	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360.c.obj	a21ab35b6f6a32c3
+9549	10363	7418456889375809	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_rumble.c.obj	e34c34619e74b31c
+9860	10428	7418456890096317	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_wii.c.obj	4908739f1413d52e
+9142	10431	7418456890421668	CMakeFiles/SDL2.dir/src/filesystem/windows/SDL_sysfilesystem.c.obj	5de23bd6d6a866bd
+9835	10456	7418456890531666	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_switch.c.obj	4f639625b89aef8b
+9891	10456	7418456890186320	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xbox360w.c.obj	ad3a527eae6ecb7c
+9902	10507	7418456891337086	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapi_xboxone.c.obj	974e324bb0c3b4de
+10431	10553	7418456892387636	CMakeFiles/SDL2.dir/src/main/windows/version.rc.res	f82b1281ff94a0cf
+9919	10753	7418456894053547	CMakeFiles/SDL2.dir/src/joystick/hidapi/SDL_hidapijoystick.c.obj	b7c271c8b21c9790
+10141	10957	7418456896055224	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_dinputjoystick.c.obj	543d36392cf8f42c
+10253	10995	7418456896535237	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_xinputjoystick.c.obj	360c46ff28681d55
+10250	11000	7418456896535237	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_windowsjoystick.c.obj	21a40c10088fe3d9
+10363	11065	7418456897220510	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_windowshaptic.c.obj	5277a6e27ee31117
+10359	11115	7418456897715906	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_dinputhaptic.c.obj	ae7f63d318929ca8
+10428	11121	7418456897785897	CMakeFiles/SDL2.dir/src/haptic/windows/SDL_xinputhaptic.c.obj	f503bcb196f3f602
+10144	11921	7418456905686565	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_rawinputjoystick.c.obj	65591bce77392ef4
+10177	11960	7418456906097066	CMakeFiles/SDL2.dir/src/joystick/windows/SDL_windows_gaming_input.c.obj	45fd97f5b6975747
+11960	12166	7418456908379574	SDL2.dll	4ce8b8f8676217dd
+11960	12166	7418456908379574	SDL2.lib	4ce8b8f8676217dd
+12166	12286	0	CMakeFiles/install.util	284605a746450b5a

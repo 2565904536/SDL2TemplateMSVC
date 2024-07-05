@@ -1,0 +1,110 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/wavpack-x64-windows-static-5.6.0#1-c554ac14-ff4b-4777-88df-4fa55c8bda2f",
+  "name": "wavpack:x64-windows-static@5.6.0#1 f5d16988f69479a648e9ca04856e7ef1a8f2d876ded102177b3c76a578b7dc7b",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-7d353e869753e5609a1f1a057df3db8fd356e49d"
+    ],
+    "created": "2024-07-05T01:47:01Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "wavpack",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "5.6.0#1",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@d58b3734d0a42c7309216ade0432f7787fbd6ff5",
+      "homepage": "https://github.com/dbry/WavPack",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "WavPack encode/decode library, command-line programs, and several plugins",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "wavpack:x64-windows-static",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "f5d16988f69479a648e9ca04856e7ef1a8f2d876ded102177b3c76a578b7dc7b",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "dbry/WavPack",
+      "downloadLocation": "git+https://github.com/dbry/WavPack@5.6.0",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "16e1b5a74261843dff148eee6a83a0c84717477c06907af3ee1bc799f9157ba8c0d3c71eee9d93d74a1081151198a8a23d84c14a60c4b35fc145d10ee901cca1"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/Han iLan/AppData/Local/vcpkg/registries/git-trees/d58b3734d0a42c7309216ade0432f7787fbd6ff5/portfile.cmake",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dc045eabaf68599804b608ad7268bf33a4fc0ffdd809d0b608f3c936f883b884"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/Han iLan/AppData/Local/vcpkg/registries/git-trees/d58b3734d0a42c7309216ade0432f7787fbd6ff5/vcpkg.json",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dcb477743d2d7b2c7c75b2bd251226939b017837cda8d99f498ed27842eba298"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

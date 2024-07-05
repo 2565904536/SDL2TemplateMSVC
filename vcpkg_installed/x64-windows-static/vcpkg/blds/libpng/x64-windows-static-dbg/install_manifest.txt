@@ -1,0 +1,5 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib/libpng16d.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib/pkgconfig/libpng16.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib/libpng/libpng16.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib/libpng/libpng16-debug.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib/libpng/libpng-config.cmake

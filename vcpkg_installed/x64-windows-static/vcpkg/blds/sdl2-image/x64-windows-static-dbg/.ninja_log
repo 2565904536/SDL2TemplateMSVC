@@ -1,0 +1,23 @@
+# ninja log v5
+5	101	7418472096463300	CMakeFiles/SDL2_image.dir/src/IMG_WIC.c.obj	c90a26b4749129f8
+21	206	7418472097468821	CMakeFiles/SDL2_image.dir/src/IMG_lbm.c.obj	4503a8c8d796a21d
+24	212	7418472097528826	CMakeFiles/SDL2_image.dir/src/IMG_pcx.c.obj	904f464d8892239c
+1	217	7418472097538826	CMakeFiles/SDL2_image.dir/src/IMG.c.obj	8c6db55aeda526e7
+18	221	7418472097588826	CMakeFiles/SDL2_image.dir/src/IMG_jxl.c.obj	8294d21b9440bc6b
+36	226	7418472097614340	CMakeFiles/SDL2_image.dir/src/IMG_stb.c.obj	f680ec96a6465292
+10	229	7418472097654367	CMakeFiles/SDL2_image.dir/src/IMG_bmp.c.obj	ffc7f19af9bda40a
+30	234	7418472097664369	CMakeFiles/SDL2_image.dir/src/IMG_pnm.c.obj	7d9e43a6e2620b9a
+12	235	7418472097684369	CMakeFiles/SDL2_image.dir/src/IMG_gif.c.obj	550de6cca6556ca7
+15	235	7418472097714364	CMakeFiles/SDL2_image.dir/src/IMG_jpg.c.obj	5b528bd8c12f3f04
+33	240	7418472097834366	CMakeFiles/SDL2_image.dir/src/IMG_qoi.c.obj	755a9739ab484a3c
+7	255	7418472098004371	CMakeFiles/SDL2_image.dir/src/IMG_avif.c.obj	bc495016529b07c3
+27	267	7418472098114364	CMakeFiles/SDL2_image.dir/src/IMG_png.c.obj	e3fef6d3e9c0718e
+207	322	7418472098669811	CMakeFiles/SDL2_image.dir/src/IMG_tga.c.obj	8f21dd205bec7d74
+213	338	7418472098829809	CMakeFiles/SDL2_image.dir/src/IMG_tif.c.obj	5cdef151350c8653
+217	339	7418472098839807	CMakeFiles/SDL2_image.dir/src/IMG_webp.c.obj	91afbd890f2d6ade
+102	341	7418472098859807	CMakeFiles/SDL2_image.dir/src/IMG_svg.c.obj	bccd6134e8589617
+226	342	7418472098875158	CMakeFiles/SDL2_image.dir/src/IMG_xpm.c.obj	79875738465c8e48
+221	343	7418472098885185	CMakeFiles/SDL2_image.dir/src/IMG_xcf.c.obj	b4797dcfeee34845
+230	351	7418472098965188	CMakeFiles/SDL2_image.dir/src/IMG_xv.c.obj	c149da1efad802c5
+351	469	7418472100108555	SDL2_image-staticd.lib	dc2a2365b42b3dbd
+469	560	0	CMakeFiles/install.util	fb8c28ebc604de9b

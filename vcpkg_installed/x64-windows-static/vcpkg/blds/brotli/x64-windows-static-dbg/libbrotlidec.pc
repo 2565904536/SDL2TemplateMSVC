@@ -1,0 +1,12 @@
+prefix=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug
+exec_prefix=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libbrotlidec
+URL: https://github.com/google/brotli
+Description: Brotli decoder library
+Version: 1.1.0
+Libs: -L${libdir} -lbrotlidec
+Requires.private: libbrotlicommon >= 1.1.0
+Cflags: -I${includedir}

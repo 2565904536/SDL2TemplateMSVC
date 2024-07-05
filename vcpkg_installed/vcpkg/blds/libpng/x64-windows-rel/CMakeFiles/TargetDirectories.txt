@@ -1,0 +1,9 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/png_genfiles.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/png_shared.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/pngfix.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/png-fix-itxt.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/edit_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/list_install_components.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/install.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/libpng/x64-windows-rel/CMakeFiles/install/local.dir

@@ -1,0 +1,11 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/lib/SDL2_imaged.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/bin/SDL2_imaged.dll
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/include/SDL2/SDL_image.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/SDL2_imageConfig.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/SDL2_imageConfigVersion.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/Findlibjxl.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/Findwebp.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/SDL2_image-shared-targets.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/cmake/SDL2_image-shared-targets-debug.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/lib/pkgconfig/SDL2_image.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-image_x64-windows/debug/share/licenses/SDL2_image/LICENSE.txt

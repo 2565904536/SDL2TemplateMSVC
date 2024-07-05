@@ -1,0 +1,13 @@
+prefix=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/debug
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SDL2_ttf
+Description: ttf library for Simple DirectMedia Layer with FreeType 2 support
+Version: 2.22.0
+Requires: sdl2 >= 2.0.10
+Libs: -L${libdir} -lSDL2_ttf
+Cflags: -I${includedir}/SDL2
+Requires.private: freetype2
+Libs.private: 

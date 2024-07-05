@@ -1,0 +1,2 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/wavpack/x64-windows-dbg/CMakeFiles/CheckASM/CMakeFiles/edit_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/wavpack/x64-windows-dbg/CMakeFiles/CheckASM/CMakeFiles/rebuild_cache.dir

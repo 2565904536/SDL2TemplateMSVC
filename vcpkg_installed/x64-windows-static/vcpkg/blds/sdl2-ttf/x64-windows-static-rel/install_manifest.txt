@@ -1,0 +1,8 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/lib/SDL2_ttf.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/include/SDL2/SDL_ttf.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/cmake/SDL2_ttfConfig.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/cmake/SDL2_ttfConfigVersion.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/cmake/SDL2_ttf-static-targets.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/cmake/SDL2_ttf-static-targets-release.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/lib/pkgconfig/SDL2_ttf.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/sdl2-ttf_x64-windows-static/share/licenses/SDL2_ttf/LICENSE.txt

@@ -1,0 +1,9 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/SDL2_mixerd.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/bin/SDL2_mixerd.dll
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/include/SDL2/SDL_mixer.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/cmake/SDL2_mixer/SDL2_mixerConfig.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/cmake/SDL2_mixer/SDL2_mixerConfigVersion.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/cmake/SDL2_mixer/SDL2_mixer-shared-targets.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/cmake/SDL2_mixer/SDL2_mixer-shared-targets-debug.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/lib/pkgconfig/SDL2_mixer.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-mixer_x64-windows/debug/share/licenses/SDL2_mixer/LICENSE.txt

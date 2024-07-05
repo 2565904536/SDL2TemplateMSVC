@@ -1,0 +1,13 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/CMakeFiles/edit_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/CMakeFiles/rebuild_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/CMakeFiles/list_install_components.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/CMakeFiles/install.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/CMakeFiles/install/local.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/vorbis.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/vorbisenc.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/vorbisfile.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/edit_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/rebuild_cache.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/list_install_components.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/install.dir
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/libvorbis/x64-windows-static-dbg/lib/CMakeFiles/install/local.dir

@@ -1,0 +1,1 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/zlibd.lib

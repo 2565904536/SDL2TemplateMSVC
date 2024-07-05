@@ -1,0 +1,13 @@
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/pkgconfig/vorbis.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/pkgconfig/vorbisenc.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/pkgconfig/vorbisfile.pc
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/include/vorbis/codec.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/include/vorbis/vorbisenc.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/include/vorbis/vorbisfile.h
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/vorbis.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/vorbisenc.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/vorbisfile.lib
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/cmake/Vorbis/VorbisTargets.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/cmake/Vorbis/VorbisTargets-debug.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/cmake/Vorbis/VorbisConfig.cmake
+F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libvorbis_x64-windows-static/debug/lib/cmake/Vorbis/VorbisConfigVersion.cmake

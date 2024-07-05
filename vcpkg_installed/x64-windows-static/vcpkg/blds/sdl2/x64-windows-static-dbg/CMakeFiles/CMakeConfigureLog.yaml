@@ -1,0 +1,1052 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      The system is: Windows - 6.2.9200 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: /nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP
+      Id flags:  
+      
+      The output was:
+      0
+      CMakeCCompilerId.c
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/3.29.3/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: /nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/GR;/EHsc;/MP
+      Id flags:  
+      
+      The output was:
+      0
+      CMakeCXXCompilerId.cpp
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1216 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:250 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-t7q0dk"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-t7q0dk"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-t7q0dk'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_57fb5
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_57fb5.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_57fb5.dir\\ /FS -c D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_57fb5.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_57fb5.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_57fb5.exe /implib:cmTC_57fb5.lib /pdb:cmTC_57fb5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Running the C compiler's linker: "D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.40.33811.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yriyqi"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yriyqi"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /GR /EHsc /MP "
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yriyqi'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_bafe5
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /GR /EHsc /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_bafe5.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_bafe5.dir\\ /FS -c D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_bafe5.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_bafe5.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_bafe5.exe /implib:cmTC_bafe5.lib /pdb:cmTC_bafe5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:210 (cmake_determine_linker_id)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:9 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/VisualStudio/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.40.33811.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:82 (check_symbol_exists)"
+    checks:
+      - "Looking for __GLIBC__"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zogpuv"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zogpuv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "LIBC_IS_GLIBC"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zogpuv'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_72d74
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_72d74.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_72d74.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zogpuv\\CheckSymbolExists.c"
+        FAILED: CMakeFiles/cmTC_72d74.dir/CheckSymbolExists.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_72d74.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_72d74.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zogpuv\\CheckSymbolExists.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zogpuv\\CheckSymbolExists.c(8): error C2065: “__GLIBC__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:17 (check_c_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:28 (_internal_check_cpu_architecture)"
+      - "CMakeLists.txt:139 (check_cpu_architecture)"
+    checks:
+      - "Performing Test CHECK_CPU_ARCHITECTURE_X86"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-8r421m"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-8r421m"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CHECK_CPU_ARCHITECTURE_X86"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-8r421m'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_5e439
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_X86  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_5e439.dir\\src.c.obj /FdCMakeFiles\\cmTC_5e439.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-8r421m\\src.c"
+        FAILED: CMakeFiles/cmTC_5e439.dir/src.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_X86  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_5e439.dir\\src.c.obj /FdCMakeFiles\\cmTC_5e439.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-8r421m\\src.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-8r421m\\src.c(6): error C2065: “choke”: 未声明的标识符
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-8r421m\\src.c(8): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:17 (check_c_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:30 (_internal_check_cpu_architecture)"
+      - "CMakeLists.txt:140 (check_cpu_architecture)"
+    checks:
+      - "Performing Test CHECK_CPU_ARCHITECTURE_X64"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-74p2g1"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-74p2g1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CHECK_CPU_ARCHITECTURE_X64"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-74p2g1'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_29978
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_X64  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_29978.dir\\src.c.obj /FdCMakeFiles\\cmTC_29978.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-74p2g1\\src.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_29978.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_29978.dir\\src.c.obj  /out:cmTC_29978.exe /implib:cmTC_29978.lib /pdb:cmTC_29978.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:17 (check_c_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:32 (_internal_check_cpu_architecture)"
+      - "CMakeLists.txt:141 (check_cpu_architecture)"
+    checks:
+      - "Performing Test CHECK_CPU_ARCHITECTURE_ARM32"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-q3qeop"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-q3qeop"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CHECK_CPU_ARCHITECTURE_ARM32"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-q3qeop'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_b6d1d
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_ARM32  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_b6d1d.dir\\src.c.obj /FdCMakeFiles\\cmTC_b6d1d.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-q3qeop\\src.c"
+        FAILED: CMakeFiles/cmTC_b6d1d.dir/src.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_ARM32  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_b6d1d.dir\\src.c.obj /FdCMakeFiles\\cmTC_b6d1d.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-q3qeop\\src.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-q3qeop\\src.c(6): error C2065: “choke”: 未声明的标识符
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-q3qeop\\src.c(8): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:17 (check_c_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:34 (_internal_check_cpu_architecture)"
+      - "CMakeLists.txt:142 (check_cpu_architecture)"
+    checks:
+      - "Performing Test CHECK_CPU_ARCHITECTURE_ARM64"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k35ech"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k35ech"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CHECK_CPU_ARCHITECTURE_ARM64"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k35ech'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_65ca6
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_ARM64  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_65ca6.dir\\src.c.obj /FdCMakeFiles\\cmTC_65ca6.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-k35ech\\src.c"
+        FAILED: CMakeFiles/cmTC_65ca6.dir/src.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_ARM64  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_65ca6.dir\\src.c.obj /FdCMakeFiles\\cmTC_65ca6.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-k35ech\\src.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-k35ech\\src.c(6): error C2065: “choke”: 未声明的标识符
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-k35ech\\src.c(8): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:17 (check_c_source_compiles)"
+      - "cmake/CheckCPUArchitecture.cmake:36 (_internal_check_cpu_architecture)"
+      - "CMakeLists.txt:143 (check_cpu_architecture)"
+    checks:
+      - "Performing Test CHECK_CPU_ARCHITECTURE_LOONGARCH64"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zgkq4s"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zgkq4s"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "CHECK_CPU_ARCHITECTURE_LOONGARCH64"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-zgkq4s'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_8b06a
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_LOONGARCH64  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_8b06a.dir\\src.c.obj /FdCMakeFiles\\cmTC_8b06a.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zgkq4s\\src.c"
+        FAILED: CMakeFiles/cmTC_8b06a.dir/src.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCHECK_CPU_ARCHITECTURE_LOONGARCH64  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_8b06a.dir\\src.c.obj /FdCMakeFiles\\cmTC_8b06a.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zgkq4s\\src.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zgkq4s\\src.c(6): error C2065: “choke”: 未声明的标识符
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-zgkq4s\\src.c(8): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1019 (check_include_file)"
+    checks:
+      - "Looking for immintrin.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-6zfnhn"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-6zfnhn"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_IMMINTRIN_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-6zfnhn'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_8770f
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_8770f.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_8770f.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-6zfnhn\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_8770f.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8770f.dir\\CheckIncludeFile.c.obj  /out:cmTC_8770f.exe /implib:cmTC_8770f.lib /pdb:cmTC_8770f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1028 (check_include_file)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yekvc2"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yekvc2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-yekvc2'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_79f28
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_79f28.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_79f28.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-yekvc2\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_79f28.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_79f28.dir\\CheckIncludeFile.c.obj  /out:cmTC_79f28.exe /implib:cmTC_79f28.lib /pdb:cmTC_79f28.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "CMakeLists.txt:1049 (check_symbol_exists)"
+    checks:
+      - "Looking for M_PI"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-g5awvo"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-g5awvo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_M_PI"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-g5awvo'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_43e41
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_43e41.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_43e41.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-g5awvo\\CheckSymbolExists.c"
+        FAILED: CMakeFiles/cmTC_43e41.dir/CheckSymbolExists.c.obj 
+        D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_43e41.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_43e41.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-g5awvo\\CheckSymbolExists.c"
+        F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-g5awvo\\CheckSymbolExists.c(8): error C2065: “M_PI”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:1782 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_WIN32_CC"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-bb7sm1"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-bb7sm1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_WIN32_CC"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-bb7sm1'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_cd959
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_WIN32_CC  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_cd959.dir\\src.c.obj /FdCMakeFiles\\cmTC_cd959.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-bb7sm1\\src.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_cd959.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cd959.dir\\src.c.obj  /out:cmTC_cd959.exe /implib:cmTC_cd959.lib /pdb:cmTC_cd959.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1824 (check_include_file)"
+    checks:
+      - "Looking for d3d9.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-3yuquf"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-3yuquf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_D3D_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-3yuquf'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_ef38c
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_ef38c.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_ef38c.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-3yuquf\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_ef38c.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ef38c.dir\\CheckIncludeFile.c.obj  /out:cmTC_ef38c.exe /implib:cmTC_ef38c.lib /pdb:cmTC_ef38c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1825 (check_include_file)"
+    checks:
+      - "Looking for d3d11_1.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ykwo7f"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ykwo7f"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_D3D11_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ykwo7f'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_dca27
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_dca27.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_dca27.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-ykwo7f\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_dca27.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_dca27.dir\\CheckIncludeFile.c.obj  /out:cmTC_dca27.exe /implib:cmTC_dca27.lib /pdb:cmTC_dca27.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:1826 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_D3D12_H"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k20j5u"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k20j5u"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_D3D12_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-k20j5u'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_42132
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_D3D12_H  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_42132.dir\\src.c.obj /FdCMakeFiles\\cmTC_42132.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-k20j5u\\src.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_42132.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_42132.dir\\src.c.obj  /out:cmTC_42132.exe /implib:cmTC_42132.lib /pdb:cmTC_42132.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1834 (check_include_file)"
+    checks:
+      - "Looking for ddraw.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-936d9p"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-936d9p"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_DDRAW_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-936d9p'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_49c7d
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_49c7d.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_49c7d.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-936d9p\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_49c7d.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_49c7d.dir\\CheckIncludeFile.c.obj  /out:cmTC_49c7d.exe /implib:cmTC_49c7d.lib /pdb:cmTC_49c7d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1835 (check_include_file)"
+    checks:
+      - "Looking for dsound.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-kaftxl"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-kaftxl"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_DSOUND_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-kaftxl'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_3b6ae
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_3b6ae.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_3b6ae.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-kaftxl\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_3b6ae.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3b6ae.dir\\CheckIncludeFile.c.obj  /out:cmTC_3b6ae.exe /implib:cmTC_3b6ae.lib /pdb:cmTC_3b6ae.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1836 (check_include_file)"
+    checks:
+      - "Looking for dinput.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-fsfo6e"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-fsfo6e"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_DINPUT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-fsfo6e'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_b6641
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_b6641.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_b6641.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-fsfo6e\\CheckIncludeFile.c"
+        D:\\Windows Kits\\10\\include\\10.0.22621.0\\um\\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_b6641.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b6641.dir\\CheckIncludeFile.c.obj  /out:cmTC_b6641.exe /implib:cmTC_b6641.lib /pdb:cmTC_b6641.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1840 (check_include_file)"
+    checks:
+      - "Looking for dxgi.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-2m4bm3"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-2m4bm3"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_DXGI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-2m4bm3'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_76d06
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_76d06.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_76d06.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-2m4bm3\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_76d06.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_76d06.dir\\CheckIncludeFile.c.obj  /out:cmTC_76d06.exe /implib:cmTC_76d06.lib /pdb:cmTC_76d06.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:1854 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_XINPUT_H"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-vlnqey"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-vlnqey"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_XINPUT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-vlnqey'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_e7d49
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_XINPUT_H  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_e7d49.dir\\src.c.obj /FdCMakeFiles\\cmTC_e7d49.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-vlnqey\\src.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e7d49.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e7d49.dir\\src.c.obj  /out:cmTC_e7d49.exe /implib:cmTC_e7d49.lib /pdb:cmTC_e7d49.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "CMakeLists.txt:1858 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_WINDOWS_GAMING_INPUT_H"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-1wpnbv"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-1wpnbv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_WINDOWS_GAMING_INPUT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-1wpnbv'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_b95d9
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_WINDOWS_GAMING_INPUT_H  /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_b95d9.dir\\src.c.obj /FdCMakeFiles\\cmTC_b95d9.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-1wpnbv\\src.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_b95d9.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b95d9.dir\\src.c.obj  /out:cmTC_b95d9.exe /implib:cmTC_b95d9.lib /pdb:cmTC_b95d9.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1866 (check_include_file)"
+    checks:
+      - "Looking for tpcshrd.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-dyd5tf"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-dyd5tf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_TPCSHRD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-dyd5tf'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_401a4
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_401a4.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_401a4.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-dyd5tf\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_401a4.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_401a4.dir\\CheckIncludeFile.c.obj  /out:cmTC_401a4.exe /implib:cmTC_401a4.lib /pdb:cmTC_401a4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1867 (check_include_file)"
+    checks:
+      - "Looking for roapi.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-n1d4us"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-n1d4us"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_ROAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-n1d4us'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_faf55
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_faf55.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_faf55.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-n1d4us\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_faf55.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_faf55.dir\\CheckIncludeFile.c.obj  /out:cmTC_faf55.exe /implib:cmTC_faf55.lib /pdb:cmTC_faf55.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1868 (check_include_file)"
+    checks:
+      - "Looking for mmdeviceapi.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ratf01"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ratf01"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_MMDEVICEAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-ratf01'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_e7fc4
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_e7fc4.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_e7fc4.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-ratf01\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_e7fc4.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e7fc4.dir\\CheckIncludeFile.c.obj  /out:cmTC_e7fc4.exe /implib:cmTC_e7fc4.lib /pdb:cmTC_e7fc4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1869 (check_include_file)"
+    checks:
+      - "Looking for audioclient.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-lqye3j"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-lqye3j"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_AUDIOCLIENT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-lqye3j'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_fbfab
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_fbfab.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_fbfab.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-lqye3j\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_fbfab.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_fbfab.dir\\CheckIncludeFile.c.obj  /out:cmTC_fbfab.exe /implib:cmTC_fbfab.lib /pdb:cmTC_fbfab.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1870 (check_include_file)"
+    checks:
+      - "Looking for sensorsapi.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-c44ros"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-c44ros"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_SENSORSAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-c44ros'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_18db3
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_18db3.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_18db3.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-c44ros\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_18db3.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_18db3.dir\\CheckIncludeFile.c.obj  /out:cmTC_18db3.exe /implib:cmTC_18db3.lib /pdb:cmTC_18db3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "CMakeLists.txt:1871 (check_include_file)"
+    checks:
+      - "Looking for shellscalingapi.h"
+    directories:
+      source: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-4aw3y0"
+      binary: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-4aw3y0"
+    cmakeVariables:
+      CMAKE_C_FLAGS: " /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP "
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/src/ase-2.30.0-3ceee4a14f.clean/cmake"
+      CMAKE_MSVC_DEBUG_INFORMATION_FORMAT: ""
+      CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>$<$<STREQUAL:static,dynamic>:DLL>"
+      VCPKG_APPLOCAL_DEPS: "OFF"
+      VCPKG_CHAINLOAD_TOOLCHAIN_FILE: "D:/VisualStudio/VC/vcpkg/scripts/toolchains/windows.cmake"
+      VCPKG_TARGET_ARCHITECTURE: "x64"
+      VCPKG_TARGET_TRIPLET: "x64-windows-static"
+      Z_VCPKG_ROOT_DIR: "D:/VisualStudio/VC/vcpkg"
+    buildResult:
+      variable: "HAVE_SHELLSCALINGAPI_H"
+      cached: true
+      stdout: |
+        Change Dir: 'F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2/x64-windows-static-dbg/CMakeFiles/CMakeScratch/TryCompile-4aw3y0'
+        
+        Run Build Command(s): D:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe -v cmTC_a7a4f
+        [1/2] D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP   -D_GNU_SOURCE=1 /Zi /Ob0 /Od /RTC1 -MTd /showIncludes /FoCMakeFiles\\cmTC_a7a4f.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_a7a4f.dir\\ /FS -c "F:\\Han iLan\\Documents\\2024shortSemester\\SDL2TemplateMSVC\\vcpkg_installed\\x64-windows-static\\vcpkg\\blds\\sdl2\\x64-windows-static-dbg\\CMakeFiles\\CMakeScratch\\TryCompile-4aw3y0\\CheckIncludeFile.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && D:\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_a7a4f.dir --rc=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=D:\\WINDOW~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- D:\\VisualStudio\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_a7a4f.dir\\CheckIncludeFile.c.obj  /out:cmTC_a7a4f.exe /implib:cmTC_a7a4f.lib /pdb:cmTC_a7a4f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...

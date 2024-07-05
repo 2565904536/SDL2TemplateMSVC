@@ -1,0 +1,12 @@
+prefix=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug
+exec_prefix=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug
+libdir=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/lib
+includedir=F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libpng_x64-windows-static/debug/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.43
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: 
+Cflags: -I${includedir}
