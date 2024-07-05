@@ -5,6 +5,7 @@
 #include <game/Sprites.hpp>
 #include <game/Motion.hpp>
 #include <game/Manager.hpp>
+#include <vector>
 
 #include <random>
 class Gold : public Sprites, public Motion
@@ -63,7 +64,7 @@ public:
     Manager manager;
     Gold background;
     Gold gameBegin;
-    Gold *gold[2];
+    std::vector<Gold *> gold;
     GoldMiner *goldMiner;
     Hook *hook;
 

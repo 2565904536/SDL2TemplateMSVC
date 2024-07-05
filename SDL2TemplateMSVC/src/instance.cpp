@@ -51,9 +51,9 @@ void gameInstance::Init()
 
     goldMiner = new GoldMiner({background.position.a, background.position.b - 300}, manager.GetTex("GoldMiner"), {2, 1}, 2, 0.0);
 
-    for (int i = 0; i < 2; i++)
+    for (int i = 0; i < 3; i++)
     {
-        gold[i] = new Gold({background.frame.box.w * (0.1f + 0.8f * randomf(randomEngine)), background.frame.box.h * (0.25f + 0.7f * randomf(randomEngine))}, manager.GetTex("Gold"), {1, 1}, 1, 0 /* 360 * randomf(randomEngine) */);
+        gold.push_back(new Gold({background.frame.box.w * (0.1f + 0.8f * randomf(randomEngine)), background.frame.box.h * (0.25f + 0.7f * randomf(randomEngine))}, manager.GetTex("Gold"), {1, 1}, 1, 360 * randomf(randomEngine)));
         gold[i]->frame.scales = 0.2f + 0.8f * randomf(randomEngine);
         gold[i]->hitBox = {static_cast<int>(gold[i]->frame.center.x * (1 - gold[i]->frame.scales)), static_cast<int>(gold[i]->frame.center.y * (1 - gold[i]->frame.scales)), static_cast<int>(gold[i]->hitBox.w * gold[i]->frame.scales), static_cast<int>(gold[i]->hitBox.h * gold[i]->frame.scales)};
     }
@@ -61,8 +61,6 @@ void gameInstance::Init()
     hook = new Hook(goldMiner->position, {0, 0}, manager.GetTex("Hook"), {1, 1});
     hook->hitBox = {static_cast<int>(hook->frame.center.x * (1 - 0.5)), static_cast<int>(hook->frame.center.y * (1 - 0.5)), static_cast<int>(hook->hitBox.w * 0.5), static_cast<int>(hook->hitBox.h * 0.5)};
     GameState = State::PAUSED;
-
-    SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
 }
 Gold *catchedGold;
 Uint64 lastTimeDrawMiner;
@@ -106,6 +104,7 @@ void gameInstance::Loop()
                 {
                     GameState = State::RESET;
                     Clean();
+                    catchedGold = nullptr;
                     Init();
                 }
                 break;
@@ -150,9 +149,9 @@ void gameInstance::Loop()
                     return Pos.x >= 0 && Pos.x < background.frame.box.w && Pos.y >= 0 && Pos.y < background.frame.box.h; }())
             {
                 hook->velocity.a = 300.0;
-                for (int i = 0; i < 2; i++)
+                for (auto &gptr : gold)
                 {
-                    auto &g = *gold[i];
+                    auto &g = *gptr;
                     if (g.state == Gold::State::IDLE && isSpritesHit(g, *hook))
                     {
                         hook->state = Hook::State::RETRACT;
@@ -176,9 +175,9 @@ void gameInstance::Loop()
                 if (catchedGold)
                 {
                     hook->velocity.a = -400.0 + 350.0 * catchedGold->frame.scales;
-                    hook->position.a += 50;
+                    hook->position.a += 50 * catchedGold->frame.scales;
                     auto Pos = hook->mapToScreenPixel();
-                    hook->position.a -= 50;
+                    hook->position.a -= 50 * catchedGold->frame.scales;
                     catchedGold->position = {static_cast<float>(Pos.x), static_cast<float>(Pos.y)};
                     catchedGold->velocity.a = hook->velocity.a * cos(hook->position.b);
                     catchedGold->velocity.b = hook->velocity.a * sin(hook->position.b);
@@ -216,11 +215,12 @@ void gameInstance::Loop()
     }
     goldMiner->draw(renderer);
 
-    for (int i = 0; i < 2; i++)
-        if (gold[i]->state != Gold::State::DEAD)
-            gold[i]->draw(renderer);
+    for (auto &g : gold)
+        if (g->state != Gold::State::DEAD)
+            g->draw(renderer);
 
     auto pos = hook->mapToScreenPixel();
+    SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
     SDL_RenderDrawLine(renderer, goldMiner->position.a, goldMiner->position.b, pos.x, pos.y);
 
     hook->draw(renderer);
@@ -233,14 +233,21 @@ void gameInstance::Loop()
     if (showBox)
     {
         SDL_Rect rect = {hook->hitBox.x + hook->frame.box.x, hook->hitBox.y + hook->frame.box.y, hook->hitBox.w, hook->hitBox.h};
+        SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
         SDL_RenderDrawRect(renderer, &rect);
+        SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
         SDL_RenderDrawRect(renderer, &hook->frame.box);
-        rect = {gold[0]->hitBox.x + gold[0]->frame.box.x, gold[0]->hitBox.y + gold[0]->frame.box.y, gold[0]->hitBox.w, gold[0]->hitBox.h};
-        SDL_RenderDrawRect(renderer, &rect);
-        SDL_RenderDrawRect(renderer, &gold[0]->frame.box);
-        rect = {gold[1]->hitBox.x + gold[1]->frame.box.x, gold[1]->hitBox.y + gold[1]->frame.box.y, gold[1]->hitBox.w, gold[1]->hitBox.h};
-        SDL_RenderDrawRect(renderer, &rect);
-        SDL_RenderDrawRect(renderer, &gold[1]->frame.box);
+        for (auto &g : gold)
+        {
+            if (g->state != Gold::State::DEAD)
+            {
+                rect = {g->hitBox.x + g->frame.box.x, g->hitBox.y + g->frame.box.y, g->hitBox.w, g->hitBox.h};
+                SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
+                SDL_RenderDrawRect(renderer, &rect);
+                SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
+                SDL_RenderDrawRect(renderer, &g->frame.box);
+            }
+        }
     }
 
     // for (int i = 0; i < 32; i++)
@@ -259,10 +266,11 @@ void gameInstance::Loop()
 
 void gameInstance::Clean()
 {
-    for (int i = 0; i < 2; i++)
-        delete gold[i];
+    for (auto &g : gold)
+        delete g;
     delete goldMiner;
     delete hook;
+    gold.clear();
 }
 
 Gold::Gold()
