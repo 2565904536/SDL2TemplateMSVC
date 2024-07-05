@@ -27,9 +27,8 @@ public:
 
     SDL_Rect hitBox;
     SDL_Texture *texture;
-    void draw(SDL_Renderer *renderer)
+    void draw(SDL_Renderer *renderer) const
     {
-
         int a = index / frame.size.x;
         int b = index % frame.size.x;
         SDL_Rect src = {b * frame.box.w, a * frame.box.h, frame.box.w, frame.box.h};
