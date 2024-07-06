@@ -1,9 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/tools/brotli/brotli.exe
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/brotlienc.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/brotlidec.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/brotlicommon.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/share/unofficial-brotli/unofficial-brotli-config.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/share/unofficial-brotli/unofficial-brotli-config-debug.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/pkgconfig/libbrotlicommon.pc
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/pkgconfig/libbrotlidec.pc
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/brotli_x64-windows-static/debug/lib/pkgconfig/libbrotlienc.pc

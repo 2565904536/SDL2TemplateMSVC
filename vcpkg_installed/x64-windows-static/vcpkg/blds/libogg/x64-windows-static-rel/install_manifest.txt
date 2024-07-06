@@ -1,9 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/ogg.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/include/ogg/config_types.h
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/include/ogg/ogg.h
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/include/ogg/os_types.h
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/cmake/Ogg/OggTargets.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/cmake/Ogg/OggTargets-release.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/cmake/Ogg/OggConfig.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/cmake/Ogg/OggConfigVersion.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/pkgs/libogg_x64-windows-static/lib/pkgconfig/ogg.pc

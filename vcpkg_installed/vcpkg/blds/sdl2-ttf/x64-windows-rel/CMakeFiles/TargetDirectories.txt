@@ -1,6 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/SDL2_ttf.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/edit_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/rebuild_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/list_install_components.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/install.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/blds/sdl2-ttf/x64-windows-rel/CMakeFiles/install/local.dir

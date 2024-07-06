@@ -1,8 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/freetype.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/package.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/package_source.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/edit_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/rebuild_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/list_install_components.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/install.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/freetype/x64-windows-static-dbg/CMakeFiles/install/local.dir
