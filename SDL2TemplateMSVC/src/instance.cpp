@@ -235,8 +235,11 @@ void gameInstance::Loop()
         SDL_Rect rect = {hook->hitBox.x + hook->frame.box.x, hook->hitBox.y + hook->frame.box.y, hook->hitBox.w, hook->hitBox.h};
         SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);
         SDL_RenderDrawRect(renderer, &rect);
+        rect = {goldMiner->hitBox.x + goldMiner->frame.box.x, goldMiner->hitBox.y + goldMiner->frame.box.y, goldMiner->hitBox.w, goldMiner->hitBox.h};
+        SDL_RenderDrawRect(renderer, &rect);
         SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
         SDL_RenderDrawRect(renderer, &hook->frame.box);
+        SDL_RenderDrawRect(renderer, &goldMiner->frame.box);
         for (auto &g : gold)
         {
             if (g->state != Gold::State::DEAD)
