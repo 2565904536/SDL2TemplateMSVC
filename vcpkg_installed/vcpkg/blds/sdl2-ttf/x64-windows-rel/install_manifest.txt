@@ -1,9 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/lib/SDL2_ttf.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/bin/SDL2_ttf.dll
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/include/SDL2/SDL_ttf.h
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttfConfig.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttfConfigVersion.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttf-shared-targets.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/cmake/SDL2_ttf-shared-targets-release.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/lib/pkgconfig/SDL2_ttf.pc
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/sdl2-ttf_x64-windows/share/licenses/SDL2_ttf/LICENSE.txt

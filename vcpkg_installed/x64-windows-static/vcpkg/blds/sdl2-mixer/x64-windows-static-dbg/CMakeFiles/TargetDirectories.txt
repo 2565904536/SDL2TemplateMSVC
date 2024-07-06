@@ -1,6 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/SDL2_mixer.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/edit_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/rebuild_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/list_install_components.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/install.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/sdl2-mixer/x64-windows-static-dbg/CMakeFiles/install/local.dir

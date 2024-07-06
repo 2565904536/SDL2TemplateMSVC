@@ -1,9 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/brotlicommon.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/brotlidec.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/brotlienc.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/brotli.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/edit_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/rebuild_cache.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/list_install_components.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/install.dir
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/x64-windows-static/vcpkg/blds/brotli/x64-windows-static-dbg/CMakeFiles/install/local.dir

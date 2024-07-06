@@ -1,7 +1,0 @@
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/lib/wavpackdll.lib
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/bin/wavpackdll.dll
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/include/wavpack/wavpack.h
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/cmake/wavpack-config.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/cmake/wavpack-config-release.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/cmake/wavpack-config-version.cmake
-F:/Han iLan/Documents/2024shortSemester/SDL2TemplateMSVC/vcpkg_installed/vcpkg/pkgs/wavpack_x64-windows/lib/pkgconfig/wavpack.pc
