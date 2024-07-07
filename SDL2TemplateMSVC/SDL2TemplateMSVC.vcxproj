@@ -95,6 +95,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>F:\Han iLan\Documents\2024shortSemester\SDL2TemplateMSVC\SDL2TemplateMSVC\include;$(IncludePath)</IncludePath>
     <SourcePath>F:\Han iLan\Documents\2024shortSemester\SDL2TemplateMSVC\SDL2TemplateMSVC\src;$(SourcePath)</SourcePath>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>F:\Han iLan\Documents\2024shortSemester\SDL2TemplateMSVC\SDL2TemplateMSVC\include;$(IncludePath)</IncludePath>
@@ -155,6 +156,7 @@
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

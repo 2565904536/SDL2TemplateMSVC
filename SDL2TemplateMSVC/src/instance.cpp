@@ -47,6 +47,7 @@ void gameInstance::Init()
         gameBegin.frame.scales = 2.0;
         gameBegin.hitBox = {0, 0, 0, 0};
         gameBegin.texture = manager.GetTex("Begin");
+        std::println("按空格开始或暂停，按h出钩，按r重置，按esc退出，按b开关碰撞箱显示");
     }
 
     goldMiner = new GoldMiner({background.position.a, background.position.b - 300}, manager.GetTex("GoldMiner"), {2, 1}, 2, 0.0);
@@ -58,7 +59,7 @@ void gameInstance::Init()
         gold[i]->hitBox = {static_cast<int>(gold[i]->frame.center.x * (1 - gold[i]->frame.scales)), static_cast<int>(gold[i]->frame.center.y * (1 - gold[i]->frame.scales)), static_cast<int>(gold[i]->hitBox.w * gold[i]->frame.scales), static_cast<int>(gold[i]->hitBox.h * gold[i]->frame.scales)};
     }
 
-    hook = new Hook(goldMiner->position, {0, 0}, manager.GetTex("Hook"), {1, 1});
+    hook = new Hook(goldMiner->position, {10, 0}, manager.GetTex("Hook"), {1, 1});
     hook->hitBox = {static_cast<int>(hook->frame.center.x * (1 - 0.5)), static_cast<int>(hook->frame.center.y * (1 - 0.5)), static_cast<int>(hook->hitBox.w * 0.5), static_cast<int>(hook->hitBox.h * 0.5)};
     GameState = State::PAUSED;
 }
@@ -125,24 +126,31 @@ void gameInstance::Loop()
         gameTime = 0;
         lastTimeDrawMiner = 0;
         instanceState = State::LOOP;
+        std::println("frequency={} ", frequency);
     }
 
     if (GameState == State::PAUSED)
     {
-        SDL_Delay(5);
+
     }
     if (GameState == State::RUNNING)
     {
         if (hook->state == Hook::State::WAIT)
         {
-            if (hook->position.b <= 0 && hook->velocity.b <= 0)
-                hook->velocity.b = 3.14 / 2;
-            if (hook->position.b >= 3.14 && hook->velocity.b > 0)
-                hook->velocity.b = -3.14 / 2;
+            hook->acceleration.b = 10 * cos(hook->position.b) / hook->position.a;
+            if(hook->position.b<0)
+                hook->position.b=0;
+            if (hook->position.b > 3.14)
+                hook->position.b = 3.14;
+            // if (hook->position.b <= 0 && hook->velocity.b <= 0)
+            //     hook->velocity.b = 3.14 / 2;
+            // if (hook->position.b >= 3.14 && hook->velocity.b > 0)
+            //     hook->velocity.b = -3.14 / 2;
         }
         if (hook->state == Hook::State::RELEASE)
         {
             hook->velocity.b = 0;
+            hook->acceleration.b = 0;
 
             if ([&]() -> bool
                 { auto Pos =hook->mapToScreenPixel();
@@ -169,7 +177,7 @@ void gameInstance::Loop()
         }
         if (hook->state == Hook::State::RETRACT)
         {
-            if (hook->position.a > 0)
+            if (hook->position.a > 10)
             {
                 hook->velocity.a = -400.0;
                 if (catchedGold)
@@ -186,8 +194,12 @@ void gameInstance::Loop()
             }
             else
             {
-                hook->position = {0, 0};
-                hook->velocity.a = 0.0;
+                hook->position.a = 10;
+                hook->velocity.a = 0;
+                if (hook->position.b < 3.14 / 2)
+                    hook->velocity.b = sqrt(2 * 10 * sin(hook->position.b) / hook->position.a);
+                else
+                    hook->velocity.b = -sqrt(2 * 10 * sin(hook->position.b) / hook->position.a);
                 hook->state = Hook::State::WAIT;
 
                 if (catchedGold)
@@ -208,7 +220,13 @@ void gameInstance::Loop()
 
     SDL_RenderClear(renderer);
     background.draw(renderer);
-    if (hook->state == Hook::State::RETRACT && (gameTime - lastTimeDrawMiner > frequency / 4))
+    if (hook->state == Hook::State::RETRACT && (gameTime - lastTimeDrawMiner > frequency / [&]() -> int
+                                                {
+                                                    if (catchedGold)
+                                                        return static_cast<int>(12 - 4 * catchedGold->frame.scales);
+                                                    else
+                                                        return 8;
+                                                }()))
     {
         lastTimeDrawMiner = gameTime;
         goldMiner->nextFrame();
@@ -228,7 +246,6 @@ void gameInstance::Loop()
     {
         gameBegin.draw(renderer);
     }
-    // std::println("fps={}", fps);
 
     if (showBox)
     {
@@ -251,6 +268,8 @@ void gameInstance::Loop()
                 SDL_RenderDrawRect(renderer, &g->frame.box);
             }
         }
+        SDL_SetRenderDrawColor(renderer, 0, 0, 255, 255);
+        SDL_RenderDrawLine(renderer, goldMiner->position.a, goldMiner->position.b, goldMiner->position.a + 700 * cos(hook->position.b), goldMiner->position.b + 700 * sin(hook->position.b));
     }
 
     // for (int i = 0; i < 32; i++)
@@ -263,6 +282,16 @@ void gameInstance::Loop()
     // }
 
     SDL_RenderPresent(renderer);
+    std::print("\rfps:{:.4f}", fps);
+    static float fpsLim = 60.0;
+    if (fpsLim)
+    {
+        int delay = static_cast<int>(1000 *(1 / fpsLim - (SDL_GetPerformanceCounter() - lastTime) / frequency));
+        if(delay>0)
+        SDL_Delay(delay);
+        //std::print("delay={}", delay);
+    }
+
     if (instanceState != State::EXIT)
         instanceState = State::LOOP;
 }
